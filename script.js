@@ -1,3 +1,4 @@
+
 const shirtImg = document.getElementById("shirtImg");
 const panstImg = document.getElementById("pantsImg");
 const shoesImg = document.getElementById("shoesImg");
